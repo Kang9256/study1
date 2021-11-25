@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;hello.baek4673&apos; to &apos;baek1065&apos;&#x0D;&#x0A;- Original project: &apos;hello&apos;&#x0D;&#x0A;- Original element: &apos;hello.baek4673&apos;&#x0D;&#x0A;- Renamed element: &apos;hello.baek1065&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;baek4673&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;hello{baek4673.java[baek4673" matchStrategy="1" name="baek1065" qualified="false" references="true" similarDeclarations="false" stamp="1637048664448" textual="false" version="1.0"/>
+</session>

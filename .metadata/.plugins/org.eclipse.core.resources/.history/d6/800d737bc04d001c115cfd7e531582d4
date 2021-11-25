@@ -1,0 +1,14 @@
+package db3;
+
+
+
+public class StudentEx {
+
+	public static void main(String[] args) {
+		
+		StudentDAO stdDAO = new StudentDAO();
+		stdDAO.selectStudent();
+
+	}
+
+}
